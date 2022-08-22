@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionalshrooms:nether_wart_block_slab",
+    "additionalshrooms:warped_wart_block_slab",
+    "additionalshrooms:nether_wart_block_stair",
+    "additionalshrooms:warped_wart_block_stair"
+  ]
+}

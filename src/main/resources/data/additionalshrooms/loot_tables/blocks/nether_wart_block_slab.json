@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "additionalshrooms:nether_wart_block_slab"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "additionalshrooms:warped_wart_block_stair"
+        }
+      ]
+    }
+  ]
+}

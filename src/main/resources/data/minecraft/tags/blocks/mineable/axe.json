@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "additionalshrooms:mushroom_block_insides",
+    "additionalshrooms:brown_mushroom_block_slab",
+    "additionalshrooms:red_mushroom_block_slab",
+    "additionalshrooms:mushroom_stem_slab",
+    "additionalshrooms:mushroom_block_insides_slab",
+    "additionalshrooms:brown_mushroom_block_stair",
+    "additionalshrooms:red_mushroom_block_stair",
+    "additionalshrooms:mushroom_stem_stair",
+    "additionalshrooms:mushroom_block_insides_stair"
+  ]
+}
