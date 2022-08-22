@@ -1,0 +1,15 @@
+{
+  "block.additionalshrooms.mushroom_block_insides" : "Mushroom Insides Block",
+  "block.additionalshrooms.brown_mushroom_block_slab" : "Brown Mushroom Slab",
+  "block.additionalshrooms.red_mushroom_block_slab" : "Red Mushroom Slab",
+  "block.additionalshrooms.mushroom_stem_slab" : "Mushroom Stem Slab",
+  "block.additionalshrooms.mushroom_block_insides_slab" : "Musroom Insides Slab",
+  "block.additionalshrooms.nether_wart_block_slab" : "Nether Wart Slab",
+  "block.additionalshrooms.warped_wart_block_slab" : "Warped Wart Slab",
+  "block.additionalshrooms.brown_mushroom_block_stair" : "Brown Mushroom Stair",
+  "block.additionalshrooms.red_mushroom_block_stair" : "Red Mushroom Stair",
+  "block.additionalshrooms.mushroom_stem_stair" : "Mushroom Stem Stair",
+  "block.additionalshrooms.mushroom_block_insides_stair" : "Musroom Insides Stair",
+  "block.additionalshrooms.nether_wart_block_stair" : "Nether Wart Stair",
+  "block.additionalshrooms.warped_wart_block_stair" : "Warped Wart Stair"
+}

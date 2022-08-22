@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "additionalshrooms:block/nether_wart_block_slab"
+    },
+    "type=double": {
+      "model": "additionalshrooms:block/nether_wart_block"
+    },
+    "type=top": {
+      "model": "additionalshrooms:block/nether_wart_block_slab_top"
+    }
+  }
+}

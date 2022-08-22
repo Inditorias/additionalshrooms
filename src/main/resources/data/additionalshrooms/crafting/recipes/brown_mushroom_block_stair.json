@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:brown_mushroom_block"
+    }
+  },
+  "result": {
+    "item": "additionalshrooms:brown_mushroom_block_stair",
+    "count": 4
+  },
+  "group": "mushroom_stairs"
+}

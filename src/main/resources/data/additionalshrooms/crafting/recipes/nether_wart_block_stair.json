@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nether_wart_block"
+    }
+  },
+  "result": {
+    "item": "additionalshrooms:nether_wart_block_stair",
+    "count": 4
+  },
+  "group": "mushroom_stairs"
+}

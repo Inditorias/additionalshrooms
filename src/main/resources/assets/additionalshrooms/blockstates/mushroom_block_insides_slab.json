@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "additionalshrooms:block/mushroom_block_insides_slab"
+    },
+    "type=double": {
+      "model": "additionalshrooms:block/mushroom_block_insides"
+    },
+    "type=top": {
+      "model": "additionalshrooms:block/mushroom_block_insides_slab_top"
+    }
+  }
+}

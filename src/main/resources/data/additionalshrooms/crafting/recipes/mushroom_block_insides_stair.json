@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "additionalshrooms:mushroom_block_insides"
+    }
+  },
+  "result": {
+    "item": "additionalshrooms:mushroom_block_insides_stair",
+    "count": 4
+  },
+  "group": "mushroom_stairs"
+}
